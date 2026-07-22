@@ -19,12 +19,9 @@ body{
     text-align: center;
    
 }
-.miau{
-    text-decoration: underline lightgray;
-}
+
 .parent {
     display: flex;
-    width: 10px;
     gap: 50px ;
     
 }
@@ -35,9 +32,7 @@ body{
 p{
     margin: 5px;
 }
-.but1{
 
-}
 .Filter{
     text-decoration: underline darkgray;
     display: flex;
@@ -64,7 +59,7 @@ p{
     background-color: white;
     width: 250px;
     border-radius: 20px;
-    height: max-content;
+    height: fit-content;
     flex-wrap: wrap;
 }
 .DW{
@@ -94,8 +89,7 @@ button{
     color: darkgray;
 }
 .parent2{
-    display: flex; 
-    gap:30px;
+    display: flex;
     flex-wrap: wrap;
-
+    gap: 30px   ;
 }
