@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    background-color: lightgray;
+    margin-bottom: 0;
+}
+.desc{
+    text-align: center;
+    background-color: lightgray;
+    margin-top: 0;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+  
+}
+ img{
+    margin: 10px;
+    padding: 20px;
+    width: 90px;
+}
+body{
+    margin: 0   ;
+}

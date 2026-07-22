@@ -1,0 +1,101 @@
+.title  {
+    text-align: center;
+}
+.desc{
+    text-align: center;
+    color: rgb(66, 65, 65);
+}
+body{
+    background-color: rgb(231, 226, 226);
+}
+.Sidebar{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 250px;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 20px;
+    text-align: center;
+   
+}
+.miau{
+    text-decoration: underline lightgray;
+}
+.parent {
+    display: flex;
+    width: 10px;
+    gap: 50px ;
+    
+}
+
+.range{
+    margin-bottom: 0px;
+}
+p{
+    margin: 5px;
+}
+.but1{
+
+}
+.Filter{
+    text-decoration: underline darkgray;
+    display: flex;
+    
+}
+.p1{
+    display: flex;
+}
+.p2{
+    display: flex;
+}
+.container {
+    display: flex;
+}
+
+.cardbox{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+.stuff{
+    display: flex;
+    background-color: white;
+    width: 250px;
+    border-radius: 20px;
+    height: max-content;
+    flex-wrap: wrap;
+}
+.DW{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+img{
+    border-radius: 20px 20px 0 0;
+    width: 100%;
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    border: 15px transparent;
+    color: white;
+    background-color: rgb(10, 182, 239)
+    
+}
+.Price{
+    color: red;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.desc1{
+    color: darkgray;
+}
+.parent2{
+    display: flex; 
+    gap:30px;
+    flex-wrap: wrap;
+
+}
